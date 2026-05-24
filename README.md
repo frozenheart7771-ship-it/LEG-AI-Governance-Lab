@@ -1,6 +1,10 @@
 # LEG AI Governance Lab
+## Operational AI Governance Resources
 
-LEG AI Governance Lab focuses on operational AI governance, accountability structures and human oversight approaches that help organisations deploy AI systems responsibly.
+LEG AI Governance Lab is an independent governance initiative focused on practical AI oversight, accountability structures and implementation-oriented governance approaches for organisations deploying AI-enabled systems.
+
+The repository contains operational governance templates, oversight resources and governance frameworks inspired by responsible AI implementation challenges and ISO/IEC 42001 governance thinking.
+
 
 This repository is being developed as a practical governance initiative inspired by real-world implementation needs, operational oversight challenges and ISO/IEC 42001 governance thinking.
 
