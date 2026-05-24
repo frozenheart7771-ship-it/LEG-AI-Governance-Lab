@@ -15,18 +15,19 @@ This repository is being developed as a practical governance initiative inspired
 - Responsible AI implementation practices
 - Shadow AI governance risks
 
-## Planned Resources
-
-This repository will gradually include:
+## Current Governance Resources
 
 - AI System Inventory Template
 - AI Risk Assessment Matrix
 - Human Oversight Review Checklist
+- Accountability Trigger Framework
+
+## Planned Additions
+
 - Governance Readiness Assessment
 - Incident & Escalation Log
-- Accountability Trigger Framework
-- Practical governance documentation
 - Governance workflow concepts
+- Practical implementation guidance
 
 ## Purpose
 
